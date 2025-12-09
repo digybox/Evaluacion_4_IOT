@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#616161</color> <!-- Gray 700 -->
+    <color name="colorPrimaryVariant">#424242</color> <!-- Gray 800 -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorAccent">#9E9E9E</color> <!-- Gray 500 -->
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
